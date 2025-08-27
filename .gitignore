@@ -1,1 +1,5 @@
 .env
+node_modules/
+cookies.json
+yarn.lock
+package-lock.json
